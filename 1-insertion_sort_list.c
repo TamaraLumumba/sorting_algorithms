@@ -30,7 +30,7 @@ void swap_n(listint_t **node, listint_t **list)
 }
 
 /**
- * insertion_sort_list - sorts a doubly linked list using the Insertion sort algorithm
+ * insertion_sort_list - sorts a doubly linked list
  * @list: list to be sorted
  */
 
